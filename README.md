@@ -34,7 +34,8 @@ Afin de tirer le meilleur parti de cette formation, vous devez avoir un environn
 
 Nous espérons que cette formation vous aidera à développer vos compétences en programmation en C et à atteindre vos objectifs académiques et professionnels. Bon apprentissage !
 
-## Auteur
+## ✍️ Auteur
 
-Tolga SAHIN - 2023
-Vous êtes libre d'utiliser et de partager cette formation comme bon vous semble à titre éducatif, veuillez seulement me créditer dans des cas d'usages professionnels.
+**Tolga SAHIN** - *2023*
+
+📚 Vous êtes libre d'utiliser et de partager cette formation à des fins éducatives. Si vous l'utilisez dans un contexte professionnel, merci de bien vouloir me créditer.
