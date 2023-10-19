@@ -34,7 +34,7 @@ Afin de tirer le meilleur parti de cette formation, vous devez avoir un environn
 
 Nous espérons que cette formation vous aidera à développer vos compétences en programmation en C et à atteindre vos objectifs académiques et professionnels. Bon apprentissage !
 
-## ✍️ Auteur
+## Auteur
 
 **Tolga SAHIN** - *2023*
 
